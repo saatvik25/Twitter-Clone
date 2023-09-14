@@ -26,6 +26,8 @@
 - Delete tweets and comments
 
 ## Demo
+https://github.com/saatvik25/saatviks/assets/74640208/d41f769b-761f-439d-a710-f01698f8b5f0
+
 <img width="634" alt="2" src="https://github.com/saatvik25/E-Cart/assets/74640208/d800533c-ea02-40eb-a535-7fd94f05a561">
 <img width="589" alt="1" src="https://github.com/saatvik25/E-Cart/assets/74640208/b68c1fa1-dcc7-47a0-bd91-94d23c9adb3e">
 
@@ -72,4 +74,8 @@ cd client
 npm install
 npm start
 ```
+
+
+
+
 
