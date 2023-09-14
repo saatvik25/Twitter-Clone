@@ -31,7 +31,7 @@ https://github.com/saatvik25/saatviks/assets/74640208/d41f769b-761f-439d-a710-f0
 <img width="634" alt="2" src="https://github.com/saatvik25/E-Cart/assets/74640208/d800533c-ea02-40eb-a535-7fd94f05a561">
 <img width="589" alt="1" src="https://github.com/saatvik25/E-Cart/assets/74640208/b68c1fa1-dcc7-47a0-bd91-94d23c9adb3e">
 
-[View Live Demo](#) <!-- Add a link to your live demo here -->
+
 <img width="1110" alt="home" src="https://github.com/saatvik25/E-Cart/assets/74640208/716a31ea-4ebd-4b81-bcfe-399fe7483d13">
 <img width="1075" alt="profile" src="https://github.com/saatvik25/E-Cart/assets/74640208/6b7201d9-9e77-4117-bc12-76b16f31f564">
 
