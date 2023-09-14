@@ -51,4 +51,4 @@ Make sure you have the following software installed:
 1. Fork this repository and clone it to your local machine.
 
 ```bash
-git clone https://github.com/your-username/twitter-clone.git
+git clone https://github.com/saatvik25/twitter-clone.git
