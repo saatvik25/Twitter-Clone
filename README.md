@@ -50,5 +50,26 @@ Make sure you have the following software installed:
 
 1. Fork this repository and clone it to your local machine.
 
+
 ```bash
 git clone https://github.com/saatvik25/twitter-clone.git
+```
+2. Start MongoDB locally:
+```basg
+mongod
+
+```
+
+3. Navigate to the server directory and install server dependencies.
+```bash
+cd server
+npm install
+npm start
+```
+4. Navigate to the client directory and install client dependencies.
+```bash
+cd client
+npm install
+npm start
+```
+
